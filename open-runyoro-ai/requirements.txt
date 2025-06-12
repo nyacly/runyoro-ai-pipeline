@@ -1,0 +1,16 @@
+torch>=2.2
+torchaudio
+transformers>=4.40
+peft
+accelerate
+datasets
+pdfminer.six
+beautifulsoup4
+readability-lxml
+yt-dlp
+pydub
+soundfile
+whisperx
+tqdm
+pandas
+unidecode
